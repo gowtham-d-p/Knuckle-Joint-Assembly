@@ -33,27 +33,23 @@ The Knuckle Joint is a mechanical joint used to connect two rods subjected to te
 
 ---
 
-# 📷 Exploded View
-
-![Exploded View](Images/Exploded_View.png)
-
 ---
 
 # 📊 Finite Element Mesh
 
-![Mesh](ANSYS/Images/Mesh.png)
+![Mesh](https://github.com/gowtham-d-p/Knuckle-Joint-Assembly/blob/main/Knuckle%20Joint/Images/Mesh.png)
 
 ---
 
 # 📈 Equivalent (Von Mises) Stress
 
-![Equivalent Stress](ANSYS/Images/Equivalent_Stress.png)
+![Equivalent Stress](https://github.com/gowtham-d-p/Knuckle-Joint-Assembly/blob/main/Knuckle%20Joint/Images/Equivalent_Stress.png)
 
 ---
 
 # 📉 Total Deformation
 
-![Total Deformation](ANSYS/Images/Total_Deformation.png)
+![Total Deformation](https://github.com/gowtham-d-p/Knuckle-Joint-Assembly/blob/main/Knuckle%20Joint/Images/Total_Deformation.png)
 
 ---
 
