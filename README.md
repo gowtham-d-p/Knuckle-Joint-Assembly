@@ -29,7 +29,7 @@ The Knuckle Joint is a mechanical joint used to connect two rods subjected to te
 
 # 📷 CAD Assembly
 
-![Knuckle Joint Assembly](Images/Assembly.png)
+![Knuckle Joint Assembly](https://github.com/gowtham-d-p/Knuckle-Joint-Assembly/blob/main/Knuckle%20Joint/Images/Assembly.png)
 
 ---
 
